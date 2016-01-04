@@ -1,6 +1,6 @@
-##How to Get List Files in Bash in Mac OS X Terminal
+##How to Get List Files in Bash Script
 
-Use the `ls` command _(in this example we'll list files in the hard disk's root folder):_
+Use the `ls` command _(in this example we'll list files in a Mac OS X hard disk's root folder):_
 
 	ls /
 	

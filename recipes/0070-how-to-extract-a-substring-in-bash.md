@@ -1,4 +1,4 @@
-#How to Extract a Substring in Bash in Mac OS X Terminal
+#How to Extract a Substring in Bash Script
 
 To extract a substring from a string variable use colons to specify the position and the optional length:
 
@@ -18,6 +18,7 @@ This echos `obar`:
 For more examples, see:
 
 - [Bash String Manipulation Examples – Length, Substring, Find and Replace](http://www.thegeekstuff.com/2010/07/bash-string-manipulation/)
+
 
 
 
