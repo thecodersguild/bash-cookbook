@@ -1,4 +1,4 @@
-##How to Get Bash to Recognize a Shell Script
+##How to Get Bash to Recognize a Shell Script  in Mac OS X Terminal
 
 Many programs recognize files based on their extensions, but not Bash. To indicate to Bash that it should process a file as a shell script [**you need to add a _"shebang"_ header**](https://en.wikipedia.org/wiki/Shebang_%28Unix%29) as **the first line** in the file:
 

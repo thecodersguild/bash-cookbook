@@ -1,1 +1,1 @@
-#Bash Cookbook for the Mac
+#Bash Cookbook for Mac OS X
