@@ -1,6 +1,6 @@
 #Bash Cookbook 
 
-This "Cookbook" is comprised of _"Recipes"_.  
+This "Cookbook" is comprised of _"Recipes"_ for how to do things in Bash.  
 
 ##Recipes
 
