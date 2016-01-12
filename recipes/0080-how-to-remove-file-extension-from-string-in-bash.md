@@ -7,7 +7,7 @@ Use the **trim shortest suffix** pattern. This echos `foobar`:
     filename="foobar.sh"
     echo ${filename%\.sh}
 
-The reason for the slash ('`\`') is because the string ('`\.sh`') after the percent sign (`'%'`) is a [**regular expression**](http://www.regular-expressions.info/) and the period ('`.`') is a special character that needs to be escaped.    
+The reason for the slash ('`\`') is because the string ('`\.sh`') after the percent sign (`'%'`) is a [**regular expression**](http://www.regular-expressions.info/) and the period ('`.`') is a special character that needs to be escaped.
 
 For related examples, see:
 
@@ -19,4 +19,8 @@ To learn about Regular Expressions see:
 - [Regular Expressions on Wikipedia](https://en.wikipedia.org/wiki/Regular_expression)
 
 
+##Similar
 
+- [basename - Strip directory and suffix from filenames](http://ss64.com/bash/basename.html)
+
+- [Extract File Basename Without Path and Extension in Bash](http://stackoverflow.com/a/2664746/102699)
